@@ -14,7 +14,6 @@
                 <th>Link</th>
             </tr>
         </tr>
-
         <tr>
         <td>Bootstrap Tasks</td>
         </tr>
@@ -42,7 +41,7 @@
                 <td>Task6</td>
                 <td><a href="Boot Strap/BS_Task6.html" style="color: red;">Link6</a></td>
             </tr>
-
+            <tr>
                 <td>Java Script Tasks</td>
             </tr>
             <tr>
