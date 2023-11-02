@@ -13,7 +13,6 @@
                 <th>Task Number</th>
                 <th>Link</th>
             </tr>
-        </tr>
         <tr>
         <td>Bootstrap Tasks</td>
         </tr>
