@@ -15,8 +15,9 @@
             </tr>
         </tr>
 
+        <tr>
         <td>Bootstrap Tasks</td>
-    </tr>
+        </tr>
             <tr>
                 <td>Task1</td>
                 <td><a href="Boot Strap/BS_Task1.html" style="color: red;">Link1</a></td>
